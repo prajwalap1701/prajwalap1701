@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚀 DevOps Pro with 5+ years of designing and deploying scalable, reliable Apps<br>
+☸️ CKA Certified Kubernetes Administrator<br>
+☁️ AWS Certified Solutions Architect – Associate<br>
+🐍 Skilled in Python scripting & automation<br>
+🔄 Strong in CI/CD, infra automation & monitoring<br>
+📦 Migrated on-prem to AWS<br>
+🌐 Interest in Django web development<br>
+📱 Flutter app dev enthusiast<br>
 
 
 ## 🌐 Socials:
